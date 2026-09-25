@@ -10,5 +10,17 @@
     "title": "Вон из бульйона",
     "filename": "Вон из бульйона",
     "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/von-iz-bulona.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Faaah",
+    "filename": "faaah.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/faaah.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Звук фотоаппарата",
+    "filename": "zvuk-fotoapparata.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/zvuk-fotoapparata.mp3"
   }
 ]
