@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Я уже красный",
+    "filename": "Я уже красный.mp3",
+    "url": "https://github.com/illiciti-hub/SopkinSpadLibrary/blob/main/%D0%AF%20%D1%83%D0%B6%D0%B5%20%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Взрыв",
+    "filename": "explosion.wav",
+    "url": "https://raw.githubusercontent.com/ВАШ_НИК/ВАШ_РЕПО/main/sounds/explosion.wav"
+  }
+]
