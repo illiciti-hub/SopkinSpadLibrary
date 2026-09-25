@@ -22,5 +22,53 @@
     "title": "Звук фотоаппарата",
     "filename": "zvuk-fotoapparata.mp3",
     "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/zvuk-fotoapparata.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Am-am-am-am (Mellstroy)",
+    "filename": "am-am-am-am-mellstroy.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/am-am-am-am-mellstroy.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Дай-дай-дай",
+    "filename": "dai-dai-dai.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/dai-dai-dai.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Dry fart",
+    "filename": "dry-fart.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/dry-fart.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Mellstroy — Animbecile",
+    "filename": "mellstroy-animbecile.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/mellstroy-animbecile.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Mellstroy — Чтооо",
+    "filename": "mellstroy-chtooo.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/mellstroy-chtooo.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Mellstroy — Хлоп",
+    "filename": "mellstroy-khlop.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/mellstroy-khlop.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Mellstroy — Поехали иопте",
+    "filename": "mellstroy-poekhali-iopte.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/mellstroy-poekhali-iopte.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Мусор drop",
+    "filename": "musor-drop_P5245U6.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/musor-drop_P5245U6.mp3"
   }
 ]
