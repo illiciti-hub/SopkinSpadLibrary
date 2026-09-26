@@ -214,5 +214,11 @@
     "title": "Spongebob fail sound",
     "filename": "spongebob-fail.mp3",
     "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/spongebob-fail.mp3"
+  },
+  {
+    "id": 37,
+    "title": "Тёмная ночь",
+    "filename": "tiomnaia-noch.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/tiomnaia-noch.mp3"
   }
 ]
