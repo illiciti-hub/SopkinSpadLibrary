@@ -220,5 +220,17 @@
     "title": "Тёмная ночь",
     "filename": "tiomnaia-noch.mp3",
     "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/tiomnaia-noch.mp3"
+  },
+  {
+    "id": 38,
+    "title": "Класс прям как во втром тим фортресс",
+    "filename": "klass-priam-kak-vo-vtorom-team-fortress.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/klass-priam-kak-vo-vtorom-team-fortress.mp3"
+  },
+  {
+    "id": 39,
+    "title": "Пошла нахуй грязная шл*ха",
+    "filename": "poshla-na-griaznaia-shl-a.mp3",
+    "url": "https://raw.githubusercontent.com/illiciti-hub/SopkinSpadLibrary/main/poshla-na-griaznaia-shl-a.mp3"
   }
 ]
